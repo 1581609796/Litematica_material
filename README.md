@@ -1,6 +1,3 @@
-<!DOCTYPE html>
-<html>
-
 <head>
     <meta charset="utf-8">
     <title>投影材料列表整理</title>
@@ -465,6 +462,3 @@ function compare1(array) {
         <tr id="build3"></tr>
         <tr id="redStone3"></tr>
     </table>
-</body>
-
-</html>
